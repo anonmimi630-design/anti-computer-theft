@@ -1,4 +1,4 @@
-## Never want to get stolen? -> Then add this program!!
+## Never want to get stolen? -> Then add this program!! (PASSWORD IS " AirbusA350-1000XWB ")
 Computer Theft Prevention System is a Windows-based security alert and theft-deterrence application developed using Python. The program is designed to provide a highly visible and audible warning when activated, combining a fullscreen security interface, password-based deactivation, continuous alarm generation, automated voice announcements, live webcam monitoring, and local video recording.
 
 The primary objective of the application is to discourage unauthorized possession or use of a computer by displaying a prominent theft warning and generating an audible security alert. Simultaneously, the application can capture video footage from the computer's built-in or connected webcam, providing a local record of the environment during the alarm session.
